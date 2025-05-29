@@ -1,6 +1,6 @@
-# summit-2025-hackathon
-Snowflake Summit 2025 - Data for Good Hackathon
-Monday, June 2: 9:00 AM to 4:00 PM at Room 153, Moscone Center South, Mezzanine Level
+# Snowflake Summit 2025 - Data for Good Hackathon
+### Monday, June 2: 9:00 AM to 4:00 PM
+ Location: Room 153, Moscone Center South, Mezzanine Level
 
 ## Know Before You Go
 We are excited to meet you at Summit. Here are some materials to help you prepare and get oriented to the hackathon scenario prior to attending. 
