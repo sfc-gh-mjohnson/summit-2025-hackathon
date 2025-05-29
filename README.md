@@ -5,6 +5,10 @@ Monday, June 2: 9:00 AM to 4:00 PM at Room 153, Moscone Center South, Mezzanine 
 ## Know Before You Go
 We are excited to meet you at Summit. Here are some materials to help you prepare and get oriented to the hackathon scenario prior to attending. 
 
+[![Watch the video](https://raw.githubusercontent.com/sfc-gh-mjohnson/summit-2025-hackathon/blob/main/assets/Hackathon_Orientation.png)](https://raw.githubusercontent.com/sfc-gh-mjohnson/summit-2025-hackathon/blob/main/assets/KnowBeforeYouGo-OrientationVideo.mp4)
+
+[![Watch the video]](https://github.com/sfc-gh-mjohnson/summit-2025-hackathon/blob/main/assets/Hackathon_Orientation.png)](https://github.com/sfc-gh-mjohnson/summit-2025-hackathon/blob/main/assets/KnowBeforeYouGo-OrientationVideo.mp4)
+
 ## 1. [Orientation Video](https://github.com/sfc-gh-mjohnson/summit-2025-hackathon/blob/main/assets/KnowBeforeYouGo-OrientationVideo.mp4)
 
 ## 2. [Slide Deck](https://github.com/sfc-gh-mjohnson/summit-2025-hackathon/blob/main/assets/Summit%2025%20Hackathon%20KBYG.pdf)
