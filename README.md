@@ -8,6 +8,7 @@ We are excited to meet you at Summit. Here are some materials to help you prepar
 ## 1. [Orientation Video: 60MB Download - Watch it now or while you travel](https://github.com/sfc-gh-mjohnson/summit-2025-hackathon/blob/main/assets/KnowBeforeYouGo-OrientationVideo.mp4)
 [![Watch the video](https://github.com/sfc-gh-mjohnson/summit-2025-hackathon/blob/f9894ef35d53b573742be0334758baadb1cdabf7/assets/Hackathon_Orientation.png)](https://github.com/sfc-gh-mjohnson/summit-2025-hackathon/blob/f9894ef35d53b573742be0334758baadb1cdabf7/assets/KnowBeforeYouGo-OrientationVideo.mp4)
 
+### If you are blocked from downloading the video, request access to the [Google Drive link here](https://drive.google.com/file/d/1hEg672U4XD4CrgbLEGtRcL10mxw-GfyX/view?usp=drive_link).
 
 ## 2. [Slide Deck](https://github.com/sfc-gh-mjohnson/summit-2025-hackathon/blob/main/assets/Summit%2025%20Hackathon%20KBYG.pdf)
 
