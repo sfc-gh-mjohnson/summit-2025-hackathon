@@ -13,3 +13,8 @@ We are excited to meet you at Summit. Here are some materials to help you prepar
 
 ## 3. [Guidebook with info on the Datasets](https://github.com/sfc-gh-mjohnson/summit-2025-hackathon/blob/main/assets/Snowflake%20Data%20for%20Good%20-%20Summit%202025%20Hackathon%20Guidebook.md)
 
+## 4. Connect to Sigma:
+### Option 1: [Through Partner Connect for data exploration](https://docs.snowflake.com/en/user-guide/ecosystem-partner-connect)
+### Option 2: Create a Sigma Trial Account for write-back - [Sigma Quickstart](https://quickstarts.sigmacomputing.com/guide/partner_snowflake_summit_hackathon_2024/index.html?index=..%2F..index#0)
+
+### Sigma Overview from [2024 Hackathon](https://quickstarts.sigmacomputing.com/guide/security_snowflake_keypair_rotation/index.html?index=..%2F..index#0)
