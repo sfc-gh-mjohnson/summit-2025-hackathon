@@ -11,5 +11,5 @@ We are excited to meet you at Summit. Here are some materials to help you prepar
 
 ## 2. [Slide Deck](https://github.com/sfc-gh-mjohnson/summit-2025-hackathon/blob/main/assets/Summit%2025%20Hackathon%20KBYG.pdf)
 
-## 3. [Guidebook with info on the Datasets](https://github.com/sfc-gh-mjohnson/summit-2025-hackathon/blob/main/assets/Snowflake%20Data%20for%20Good%20-%20Summit%202025%20Hackathon%20Guidebook.docx)
+## 3. [Guidebook with info on the Datasets](https://github.com/sfc-gh-mjohnson/summit-2025-hackathon/blob/main/assets/Snowflake%20Data%20for%20Good%20-%20Summit%202025%20Hackathon%20Guidebook.md)
 
