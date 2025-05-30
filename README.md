@@ -20,4 +20,5 @@ We are excited to meet you at Summit. Here are some materials to help you prepar
 
 ### Sigma Overview from [2024 Hackathon](https://quickstarts.sigmacomputing.com/guide/security_snowflake_keypair_rotation/index.html?index=..%2F..index#0)
 
-## 5. Read background on Mapbox tools and capabilities [Google Drive link](https://docs.google.com/presentation/d/1Nsets66awGCvOzL_1aObonEHN9oqJxHxHP46-7aedYo/edit?slide=id.g2bff250472a_1_3#slide=id.g2bff250472a_1_3)
+## 5. Read background on Mapbox tools and capabilities
+### [Link to Google Drive deck](https://docs.google.com/presentation/d/1Nsets66awGCvOzL_1aObonEHN9oqJxHxHP46-7aedYo/edit?slide=id.g2bff250472a_1_3#slide=id.g2bff250472a_1_3)
