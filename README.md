@@ -2,12 +2,13 @@
 ### Monday, June 2: 9:00 AM to 4:00 PM
  Location: Room 153, Moscone Center South, Mezzanine Level
 
- 
-
-https://github.com/user-attachments/assets/7b520c90-ddc6-4ff3-8305-d0b1e3e0dafa
 
 ## DataOps Link to claim your Snowflake Account:
 https://go.dataops.live/summit-hackathon-2025
+
+ 
+
+https://github.com/user-attachments/assets/7b520c90-ddc6-4ff3-8305-d0b1e3e0dafa
 
 
 ## Know Before You Go
