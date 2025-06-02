@@ -1,4 +1,4 @@
-create or replace view SUMMIT_HACKATHON.HACKATHON_DATASETS.MAPBOX_ACTIVITY(
+create or replace view DATAOPS_EVENT_PROD.HACKATHON_DATASETS.MAPBOX_ACTIVITY(
 	GEOGRAPHY COMMENT 'A column holding data of type GeographyType.',
 	XLON COMMENT 'Longitude',
 	XLAT COMMENT 'Latitude',
