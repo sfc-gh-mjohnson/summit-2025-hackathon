@@ -6,6 +6,8 @@
 
 https://github.com/user-attachments/assets/7b520c90-ddc6-4ff3-8305-d0b1e3e0dafa
 
+## DataOps Link to claim your Snowflake Account:
+https://go.dataops.live/summit-hackathon-2025
 
 
 ## Know Before You Go
